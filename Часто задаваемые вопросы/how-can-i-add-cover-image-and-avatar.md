@@ -9,6 +9,7 @@ You need to have a DTube account and log in with it, then you need to go to **My
 </center>
 
 You can edit your information from this section and image and cover url should be in the same format like the picture above. Make sure you link to an image (.png, .jpg, etc), and **not** to a webpage.
+![channels4_profile](https://user-images.githubusercontent.com/125618171/219519193-be993b3a-17bc-4853-9a0d-d2329539478a.jpg)
 
 For the cover image you can use something between **1900 (width) x 265 (height)** or **1354 x 155** to check for best results.
 
